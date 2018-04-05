@@ -1,2 +1,3 @@
 # hello-world
 my first temporary repository
+well up until now i see how it is not boring but hey!! when are we gonna start learning to post the codes...
